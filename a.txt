@@ -1,6 +1,0 @@
-learning git
-
-making changes
-
-
-learning stash
