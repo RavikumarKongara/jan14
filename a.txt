@@ -1,1 +1,2 @@
 a  file in appA folder
+testing -a -m attribute 
