@@ -1,3 +1,4 @@
 a  file in appA folder
 testing -a -m attribute 
 testing -am at a time
+-am with file name testing
