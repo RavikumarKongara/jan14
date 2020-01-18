@@ -1,4 +1,4 @@
-ravi kongara a  file in appA folder
+from branch1 ravi kongara a  file in appA folder
 testing -a -m attribute 
 testing -am at a time
 -am with file name testing
