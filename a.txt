@@ -1,4 +1,3 @@
-from branch1 ravi kongara a  file in appA folder
 kongara ravi kongara a  file in appA folder
 testing -a -m attribute 
 testing -am at a time
